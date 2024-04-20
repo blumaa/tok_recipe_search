@@ -2,6 +2,7 @@
 import React, { useState, useMemo } from 'react'
 
 import recipesData from './recipes.json';
+import Header from './Header';
 
 import {
   createColumnHelper,
@@ -9,7 +10,6 @@ import {
   getCoreRowModel,
   useReactTable,
 } from '@tanstack/react-table'
-import Header from './Header';
 
 type Recipe = {
   name: string;
@@ -24,8 +24,8 @@ const columnHelper = createColumnHelper<Recipe>()
 
 const columns = [
   columnHelper.accessor('name', {
-    cell: info => info.getValue(),
-    header: () => 'Name',
+    cell: info => <div className="pl-2">{info.getValue()}</div>,
+    header: () => <div className="pl-2">Name</div>,
   }),
   columnHelper.accessor("ingredients", {
     cell: info => info.getValue(),
@@ -63,41 +63,39 @@ export default function Page() {
         setEffectFilter={setEffectFilter}
       />
 
-      <div className='px-2'>
-        <table className="min-w-full divide-y divide-gray-300" >
-          <thead className="bg-gray-200">
-            {table.getHeaderGroups().map(headerGroup => (
-              <tr key={headerGroup.id}>
-                {headerGroup.headers.map(header => (
-                  <th key={header.id}
-                    className="py-3 text-left text-xs font-medium text-gray-800 "
-                  >
-                    {header.isPlaceholder
-                      ? null
-                      : flexRender(
-                        header.column.columnDef.header,
-                        header.getContext()
-                      )}
-                  </th>
-                ))}
-              </tr>
-            ))}
-          </thead>
-          <tbody className="bg-white divide-y divide-gray-200" >
-            {table.getRowModel().rows.map(row => (
-              <tr key={row.id} >
-                {row.getVisibleCells().map(cell => (
-                  <td key={cell.id}
-                    className="py-1 "
-                  >
-                    {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                  </td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      <table className="min-w-full divide-y divide-gray-300" >
+        <thead className="bg-gray-200">
+          {table.getHeaderGroups().map(headerGroup => (
+            <tr key={headerGroup.id}>
+              {headerGroup.headers.map(header => (
+                <th key={header.id}
+                  className="py-3 text-left text-xs font-medium text-gray-800 "
+                >
+                  {header.isPlaceholder
+                    ? null
+                    : flexRender(
+                      header.column.columnDef.header,
+                      header.getContext()
+                    )}
+                </th>
+              ))}
+            </tr>
+          ))}
+        </thead>
+        <tbody className="bg-white divide-y divide-gray-200 " >
+          {table.getRowModel().rows.map(row => (
+            <tr key={row.id}>
+              {row.getVisibleCells().map(cell => (
+                <td key={cell.id}
+                  className="py-1 "
+                >
+                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
       <footer className="flex justify-end">
         <div className="text-xs text-slate-600 p-4">© 2024 <a href="mailto:blumaa@gmail.com" className="hover:text-sky-600 hover:underline">Aaron Blum</a></div>
       </footer>
