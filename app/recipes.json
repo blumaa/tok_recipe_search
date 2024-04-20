@@ -1,0 +1,1286 @@
+[
+  {
+    "name": "Mushroom Skewer",
+    "ingredients": "1 x mushroom",
+    "effect": "Restores health, increase amount for greater effect. Change mushroom type for extra buffs.",
+    "recipeNumber": 1
+  },
+  {
+    "name": "Meat and Mushroom Skewer",
+    "ingredients": "1 x mushroom\n1 x meat",
+    "effect": "Restores health, increase amount for greater effect. Change mushroom type for extra buffs.",
+    "recipeNumber": 2
+  },
+  {
+    "name": "Fish and Mushroom Skewer",
+    "ingredients": "1 x mushroom\n1 x fish",
+    "effect": "Restores health, increase amount for greater effect. Change mushroom type for extra buffs.",
+    "recipeNumber": 3
+  },
+  {
+    "name": "Meat Skewer",
+    "ingredients": "1 x meat",
+    "effect": "Restores health, increase amount for greater effect.",
+    "recipeNumber": 4
+  },
+  {
+    "name": "Fish Skewer",
+    "ingredients": "1 x fish",
+    "effect": "Restores health, increase amount for greater effect.",
+    "recipeNumber": 5
+  },
+  {
+    "name": "Seafood Skewer",
+    "ingredients": "1 x snail/crab",
+    "effect": "Restores two hearts.",
+    "recipeNumber": 6
+  },
+  {
+    "name": "Copious Meat Skewers",
+    "ingredients": "4 x different types of meat",
+    "effect": "Restores thirteen hearts.",
+    "recipeNumber": 7
+  },
+  {
+    "name": "Copious Seafood Skewers",
+    "ingredients": "4 x different types of fish",
+    "effect": "Restores eight hearts.",
+    "recipeNumber": 8
+  },
+  {
+    "name": "Steamed Fruit",
+    "ingredients": "1 x fruit (except Hylian Tomato)\n1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 9
+  },
+  {
+    "name": "Steamed Tomatoes",
+    "ingredients": "1 x Hylian Tomato\n1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 10
+  },
+  {
+    "name": "Steamed Mushrooms",
+    "ingredients": "1 x mushroom\n1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 11
+  },
+  {
+    "name": "Steamed Meat",
+    "ingredients": "1 x meat\n1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 12
+  },
+  {
+    "name": "Steamed Fish",
+    "ingredients": "1 x fish\n1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 13
+  },
+  {
+    "name": "Sauteed Peppers",
+    "ingredients": "1 x Spicy Pepper",
+    "effect": "Restores health and offers cold resistance, increase amount for greater effect.",
+    "recipeNumber": 14
+  },
+  {
+    "name": "Sauteed Nuts",
+    "ingredients": "1 x any type of nut",
+    "effect": "Restores half a heart.",
+    "recipeNumber": 15
+  },
+  {
+    "name": "Fried Wild Greens",
+    "ingredients": "1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 16
+  },
+  {
+    "name": "Copious Fried Wild Greens",
+    "ingredients": "4 x different types of vegetable, flower, or herb",
+    "effect": "Restores eight hearts.",
+    "recipeNumber": 17
+  },
+  {
+    "name": "Cooked Stambulb",
+    "ingredients": "1 x Stamblulb",
+    "effect": "Restores one heart and one-quarter stamina.",
+    "recipeNumber": 18
+  },
+  {
+    "name": "Buttered Stambulb",
+    "ingredients": "1 x Stambulb\n1 x Goat Butter",
+    "effect": "Restores two hearts and one full stamina circle.",
+    "recipeNumber": 19
+  },
+  {
+    "name": "Copious Mushroom Skewers",
+    "ingredients": "4 x different types of mushroom",
+    "effect": "Restores three and a half hearts.",
+    "recipeNumber": 20
+  },
+  {
+    "name": "Spiced Meat Skewer",
+    "ingredients": "1 x Goron Spice\n1 x Raw Meat",
+    "effect": "Restores two hearts.",
+    "recipeNumber": 21
+  },
+  {
+    "name": "Prime Spiced Meat Skewer",
+    "ingredients": "1 x Goron Spice\n1 x Prime Meat",
+    "effect": "Restores three hearts.",
+    "recipeNumber": 22
+  },
+  {
+    "name": "Gourmet Spiced Meat Skewer",
+    "ingredients": "1 x Goron Spice\n1 x Gourmet Meat",
+    "effect": "Restores six hearts.",
+    "recipeNumber": 23
+  },
+  {
+    "name": "Crab Stir-Fry",
+    "ingredients": "1 x Crab\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 24
+  },
+  {
+    "name": "Meat and Seafood Fry",
+    "ingredients": "1 x Raw Meat\n1 x Fish",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 25
+  },
+  {
+    "name": "Prime Meat and Seafood Fry",
+    "ingredients": "1 x Raw Prime Meat\n1 x Fish",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 26
+  },
+  {
+    "name": "Gourmet Meat and Seafood Fry",
+    "ingredients": "1 x Raw Gourmet Meat\n1 x Fish",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 27
+  },
+  {
+    "name": "Salt-Grilled Greens",
+    "ingredients": "1 x Rock Salt\n1 x Flower or Herb",
+    "effect": "Restores two hearts.",
+    "recipeNumber": 28
+  },
+  {
+    "name": "Salt-Grilled Mushroom",
+    "ingredients": "1 x Rock Salt\n1 x Mushroom",
+    "effect": "Restores one hearts.",
+    "recipeNumber": 29
+  },
+  {
+    "name": "Salt-grilled Meat",
+    "ingredients": "1 x Rock salt\n1 x Raw bird drumstick/Raw Meat.",
+    "effect": "Restores health, increase amount for greater effect. Changed types for different effects.",
+    "recipeNumber": 30
+  },
+  {
+    "name": "Salt-Grilled Prime Meat",
+    "ingredients": "1 x Raw Prime Meat\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change type for different effects.",
+    "recipeNumber": 31
+  },
+  {
+    "name": "Salt-Grilled Gourmet Meat",
+    "ingredients": "1 x Raw Gourmet Meat\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change type for different effects.",
+    "recipeNumber": 32
+  },
+  {
+    "name": "Salt-grilled Fish",
+    "ingredients": "1 x Fish\n1 x Rock salt",
+    "effect": "Restores health, increase amount for greater effect. Changed types for different effects.",
+    "recipeNumber": 33
+  },
+  {
+    "name": "Salt-Grilled Crab",
+    "ingredients": "1 x Crab\n1 x Rock salt",
+    "effect": "Restores health, increase amount for greater effect. Changed types for different effects.",
+    "recipeNumber": 34
+  },
+  {
+    "name": "Herb Saute",
+    "ingredients": "1 x Goron Spice\n1 x Flower, herb, or vegetable",
+    "effect": "Restores health, increase amount for greater effect. Changed types for different effects.",
+    "recipeNumber": 35
+  },
+  {
+    "name": "Fragrant Mushroom Saute",
+    "ingredients": "1 x Goron Spice\n1 x Mushroom",
+    "effect": "Restores health, increase amount for greater effect. Changed types for different effects.",
+    "recipeNumber": 36
+  },
+  {
+    "name": "Pepper Steak",
+    "ingredients": "1 x Raw Meat\n1 x Pepper\n1 x Green Onion\n1 x Acorn",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 37
+  },
+  {
+    "name": "Pepper Seafood",
+    "ingredients": "1 x Fish\n1 x Spicy Pepper",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 38
+  },
+  {
+    "name": "Fragrant Seafood Stew",
+    "ingredients": "1 x Stambulb\n1 x Oil Jar\n1 x Fish",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 39
+  },
+  {
+    "name": "Deep-Fried Drumstick",
+    "ingredients": "1 x Oil Jar\n1 x Raw Bird Drumstick",
+    "effect": "Restores two hearts.",
+    "recipeNumber": 40
+  },
+  {
+    "name": "Deep-Fried Thigh",
+    "ingredients": "1 x Oil Jar\n1 x Raw Bird Thigh",
+    "effect": "Restores three hearts.",
+    "recipeNumber": 41
+  },
+  {
+    "name": "Deep-Fried Bird Roast",
+    "ingredients": "1 x Oil Jar\n1 x Raw Whole Bird",
+    "effect": "Restores six hearts.",
+    "recipeNumber": 42
+  },
+  {
+    "name": "Seafood Meuniere",
+    "ingredients": "1 x Seafood\n1 x Tabantha Wheat\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 43
+  },
+  {
+    "name": "Porgy Meuniere",
+    "ingredients": "1 x Porgy\n1 x Tabantha Wheat\n1 x Goat Butter",
+    "effect": "Restores four hearts and boost attack for 3 mins 10 secs.",
+    "recipeNumber": 44
+  },
+  {
+    "name": "Salmon Meuniere",
+    "ingredients": "1 x Salmon\n1 x Tabantha Wheat\n1 x Goat Butter",
+    "effect": "Restores all hearts.",
+    "recipeNumber": 45
+  },
+  {
+    "name": "Fruit and Mushroom Mix",
+    "ingredients": "1 x Fruit\n1 x Mushroom",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 46
+  },
+  {
+    "name": "Simmered Fruit",
+    "ingredients": "1 x Fruit",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 47
+  },
+  {
+    "name": "Copious Simmered Fruit",
+    "ingredients": "4 x different types of fruit",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 48
+  },
+  {
+    "name": "Simmered Tomato",
+    "ingredients": "5 x Hylian Tomato",
+    "effect": "Restores ten hearts.",
+    "recipeNumber": 49
+  },
+  {
+    "name": "Fruity Tomato Stew",
+    "ingredients": "1 x Hylian Tomato\n1 x Rock Salt\n1 x Fresh Milk",
+    "effect": "Restores three hearts",
+    "recipeNumber": 50
+  },
+  {
+    "name": "Tomato Mushroom Stew",
+    "ingredients": "1 x Mushroom\n1 x Hylian Tomato\n1 x Raw Prime Meat",
+    "effect": "Restores health, increase amount for greater effect.",
+    "recipeNumber": 51
+  },
+  {
+    "name": "Tomato Seafood Soup",
+    "ingredients": "1 x Hylian Tomato\n1 x Seafood",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 52
+  },
+  {
+    "name": "Cream of Vegetable Soup",
+    "ingredients": "1 x Rock Salt\n1 x Fresh Milk\n1 x Vegetable, Flower, or Herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 53
+  },
+  {
+    "name": "Veggie Cream Soup",
+    "ingredients": "1 x Pumpkin or Carrot\n1 x Rock Salt\n1 x Fresh Milk",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 54
+  },
+  {
+    "name": "Cream of Mushroom Soup",
+    "ingredients": "1 x Mushroom\n1 x Rock Salt\n1 x Fresh Milk\n1 x Vegetable, Flower, or Herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 55
+  },
+  {
+    "name": "Creamy Meat Soup",
+    "ingredients": "1 x Meat\n1 x Rock Salt\n1 x Fresh Milk\n1 x Vegetable, Flower, or Herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 56
+  },
+  {
+    "name": "Creamy Seafood Soup",
+    "ingredients": "1 x Seafood\n1 x Rock Salt\n1 x Fresh Milk\n1 x Vegetable, Flower, or Herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 57
+  },
+  {
+    "name": "Snail Chowder",
+    "ingredients": "1 x Goat Butter\n1 x Fresh Milk\n1 x Snail\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 58
+  },
+  {
+    "name": "Creamy Heart Soup",
+    "ingredients": "1 x Hyrdomelon\n1 x Voltfruit\n1 x Hearty Radish\n1 x Fresh Milk",
+    "effect": "Restores eight hearts",
+    "recipeNumber": 59
+  },
+  {
+    "name": "Glazed Veggies",
+    "ingredients": "1 x Vegetable\n1 x Courser Bee Honey",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 60
+  },
+  {
+    "name": "Glazed Mushrooms",
+    "ingredients": "1 x Mushroom\n1 x Courser Bee Honey",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 61
+  },
+  {
+    "name": "Glazed Meat",
+    "ingredients": "1 x Bird Drumstick\n1 x Courser Bee Honey",
+    "effect": "Restores six hearts and two-fifths stamina.",
+    "recipeNumber": 62
+  },
+  {
+    "name": "Glazed Seafood",
+    "ingredients": "1 x Any Seafood\n1 x Courser Bee Honey",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 63
+  },
+  {
+    "name": "Curry Rice",
+    "ingredients": "1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores two hearts",
+    "recipeNumber": 64
+  },
+  {
+    "name": "Vegetable Curry",
+    "ingredients": "1 x Pumpkin or Carrot\n1 x Goron Spice\n1 x Hylian Rice",
+    "effect": "Restores health and boosts defence if you use a pumpkin, boosts stamina if you use a carrot. Increase amount for greater effect.",
+    "recipeNumber": 65
+  },
+  {
+    "name": "Meat Curry",
+    "ingredients": "1 x Raw Meat\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 66
+  },
+  {
+    "name": "Prime Meat Curry",
+    "ingredients": "1 x Raw Prime Meat\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 67
+  },
+  {
+    "name": "Gourmet Meat Curry",
+    "ingredients": "1 x Raw Gourmet Meat\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 68
+  },
+  {
+    "name": "Poultry Curry",
+    "ingredients": "1 x Raw Bird Drumstick\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 69
+  },
+  {
+    "name": "Prime Poultry Curry",
+    "ingredients": "1 x Raw Bird Thigh\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 70
+  },
+  {
+    "name": "Gourmet Poultry Curry",
+    "ingredients": "1 x Raw Whole Bird\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 71
+  },
+  {
+    "name": "Seafood Curry",
+    "ingredients": "1 x Any Seafood\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 72
+  },
+  {
+    "name": "Cheesy Curry",
+    "ingredients": "1 x Hateno Cheese\n1 x Hylian Rice\n1 x Goron Spice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 73
+  },
+  {
+    "name": "Carrot Stew",
+    "ingredients": "1 x Any Carrot\n1 x Goat Butter\n1 x Fresh Milk\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 74
+  },
+  {
+    "name": "Pumpkin Stew",
+    "ingredients": "1 x Any Pumpkin\n1 x Goat Butter\n1 x Fresh Milk\n1 x Tabantha Wheat",
+    "effect": "Restores hearts and grants a defence boost. Increase amount for greater effect.",
+    "recipeNumber": 75
+  },
+  {
+    "name": "Meat Stew",
+    "ingredients": "1 x Raw Meat\n1 x Goat Butter\n1 x Fresh Milk\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 76
+  },
+  {
+    "name": "Prime Meat Stew",
+    "ingredients": "1 x Raw Prime Meat\n1 x Goat Butter\n1 x Fresh Milk\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 77
+  },
+  {
+    "name": "Gourmet Meat Stew",
+    "ingredients": "1 x Raw Gourmet Meat\n1 x Goat Butter\n1 x Fresh Milk\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 78
+  },
+  {
+    "name": "Meat-Stuffed Pumpkin",
+    "ingredients": "1 x Any Pumpkin\n1 x Any Meat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 79
+  },
+  {
+    "name": "Vegetable Risotto",
+    "ingredients": "1 x Any Carrot or Pumpkin\n1 x Hylian Rice\n1 x Goat Butter\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 80
+  },
+  {
+    "name": "Mushroom Risotto",
+    "ingredients": "1 x Any Mushroom\n1 x Hylian Rice\n1 x Goat Butter\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 81
+  },
+  {
+    "name": "Salmon Risotto",
+    "ingredients": "1 x Hearty Salmon\n1 x Hylian Rice\n1 x Goat Butter\n1 x Rock Salt",
+    "effect": "Full health recovery plus four yellow hearts.",
+    "recipeNumber": 82
+  },
+  {
+    "name": "Crab Risotto",
+    "ingredients": "1 x Any Crab\n1 x Hylian Rice\n1 x Goat Butter\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 83
+  },
+  {
+    "name": "Cheesy Risotto",
+    "ingredients": "1 x Any Mushroom or Fish Except Hearty Salmon\n1 x Hylian Rice\n1 x Goat Butter\n1 x Rock Salt\n1 x Hateno Cheese",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 84
+  },
+  {
+    "name": "Poultry Pilaf",
+    "ingredients": "1 x Raw Bird Drumstick\n1 x Hylian Rice\n1 x Bird Egg\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect.",
+    "recipeNumber": 85
+  },
+  {
+    "name": "Prime Poultry Pilaf",
+    "ingredients": "1 x Raw Bird Thigh\n1 x Hylian Rice\n1 x Goat Butter\n1 x Bird Egg",
+    "effect": "Restores seven hearts.",
+    "recipeNumber": 86
+  },
+  {
+    "name": "Gourmet Poultry Pilaf",
+    "ingredients": "1 x Raw Whole Bird\n1 x Hylian Rice\n1 x Goat Butter\n1 x Bird Egg",
+    "effect": "Restores 10 hearts.",
+    "recipeNumber": 87
+  },
+  {
+    "name": "Seafood Paella",
+    "ingredients": "1 x Armored Porgy or Mighty Porgy\n1 x Razorclaw Crab or Ironshell Crab\n1 x Rock Salt\n1 x Goat Butter\n1 x Hylian Rice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 88
+  },
+  {
+    "name": "Curry Pilaf",
+    "ingredients": "1 x Goron Spice\n1 x Goat Butter\n1 x Hylian Rice",
+    "effect": "Restores two hearts.",
+    "recipeNumber": 89
+  },
+  {
+    "name": "Fried Egg and Rice",
+    "ingredients": "1 x Bird Egg\n1 x Hylian Rice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 90
+  },
+  {
+    "name": "Crunchy Fried Rice",
+    "ingredients": "1 x Any Meat\n1 x Hylian Rice\n1 x Oil Jar\n1 x Bird Egg",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 91
+  },
+  {
+    "name": "Seafood Fried Rice",
+    "ingredients": "1 x Any Porgy\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 92
+  },
+  {
+    "name": "Crab Omelet with Rice",
+    "ingredients": "1 x Any Crab\n1 x Bird Egg\n1 x Rock Salt\n1 x Hylian Rice",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 93
+  },
+  {
+    "name": "Meat and Rice Bowl",
+    "ingredients": "1 x Raw Meat\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores four hearts. Increase amount for greater effect.",
+    "recipeNumber": 94
+  },
+  {
+    "name": "Prime Meat and Rice Bowl",
+    "ingredients": "1 x Raw Meat\n1 x Hylian Rice\n1 x Rock Salt\n2 x Prime Meat",
+    "effect": "Restores five hearts. Increase amount for greater effect.",
+    "recipeNumber": 95
+  },
+  {
+    "name": "Gourmet Meat and Rice Bowl",
+    "ingredients": "1 x Raw Gourmet Meat\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores eight hearts. Increase amount for greater effect.",
+    "recipeNumber": 96
+  },
+  {
+    "name": "Cheesy Meat Bowl",
+    "ingredients": "1 x Raw Meat\n1 x Hateno Cheese\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores six hearts. Increase amount for greater effect.",
+    "recipeNumber": 97
+  },
+  {
+    "name": "Prime Cheesy Meat Bowl",
+    "ingredients": "1 x Raw Prime Meat\n1 x Hateno Cheese\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores seven hearts. Increase amount for greater effect.",
+    "recipeNumber": 98
+  },
+  {
+    "name": "Gourmet Cheesy Meat Bowl",
+    "ingredients": "1 x Raw Gourmet Meat\n1 x Hateno Cheese\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores 10 hearts. Increase amount for greater effect.",
+    "recipeNumber": 99
+  },
+  {
+    "name": "Veggie Rice Balls",
+    "ingredients": "1 x Hylian rice\n1 x vegetable, flower, or herb",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 100
+  },
+  {
+    "name": "Mushroom Rice Balls",
+    "ingredients": "1 x Hylian Rice\n1 x Mushroom (except Puffshroom)",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 101
+  },
+  {
+    "name": "Meaty Rice Balls",
+    "ingredients": "1 x Hylian rice\n1 x Raw Meat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 102
+  },
+  {
+    "name": "Seafood Rice Balls",
+    "ingredients": "1 x Hylian Rice\n2 x Staminoka Bass",
+    "effect": "Restores six hearts and two and a quarter bars of stamina",
+    "recipeNumber": 103
+  },
+  {
+    "name": "Veggie Porridge",
+    "ingredients": "1 x Vegetable\n1 x Hylian Rice\n1 x Fresh Milk",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 104
+  },
+  {
+    "name": "Wheat Bread",
+    "ingredients": "1 x Rock Salt\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 105
+  },
+  {
+    "name": "Melty Cheesy Bread",
+    "ingredients": "1 x Hateno Cheese\n1 x Rock Salt\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 106
+  },
+  {
+    "name": "Hylian Tomato Pizza",
+    "ingredients": "1 x Tabantha Wheat\n1 x Hateno Cheese\n1 x Hylian Tomato",
+    "effect": "Restores seven hearts. Increase amount for greater effect.",
+    "recipeNumber": 107
+  },
+  {
+    "name": "Meat Pie",
+    "ingredients": "1 x Any Meat\n1 x Goat Butter\n1 x Rock Salt",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 108
+  },
+  {
+    "name": "Fish Pie",
+    "ingredients": "1 x Any Seafood\n1 x Goat Butter\n1 x Rock Salt\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 109
+  },
+  {
+    "name": "Cheesy Tomato",
+    "ingredients": "1 x Hylian Tomato\n1 x Hateno Cheese",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 110
+  },
+  {
+    "name": "Cheesy Baked Fish",
+    "ingredients": "1 x Hateno Cheese\n1 x Any Seafood",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 111
+  },
+  {
+    "name": "Omelet",
+    "ingredients": "1 x Bird Egg\n1 x Goat Butter\n1 x Fresh Milk",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 112
+  },
+  {
+    "name": "Vegetable Omelet",
+    "ingredients": "1 x Any Vegatable, Flower, or Herb\n1 x Bird Egg\n1 x Rock Salt\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 113
+  },
+  {
+    "name": "Mushroom Omelet",
+    "ingredients": "1 x Any Mushroom\n1 x Bird Egg\n1 x Rock Salt\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 114
+  },
+  {
+    "name": "Cheesy Omelet",
+    "ingredients": "1 x Any Mushroom, Vegetable, Flower, or Herb\n1 x Bird Egg\n1 x Rock Salt\n1 x Goat Butter\n1 x Hateno Cheese",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 115
+  },
+  {
+    "name": "Hot Buttered Apple",
+    "ingredients": "1 x Apple\n1 x Goat Butter",
+    "effect": "Restores two hearts using an apple, and four hearts using a golden apple. Increase amount for greater effect.",
+    "recipeNumber": 116
+  },
+  {
+    "name": "Honeyed Fruits",
+    "ingredients": "1 x Any Fruit except Apple\n1 x Courser Bee Honey",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 117
+  },
+  {
+    "name": "Honeyed Apple",
+    "ingredients": "1 x Apple\n1 x Courser Bee Honey",
+    "effect": "Restores health, use golden apples or increase amount for greater effect.",
+    "recipeNumber": 118
+  },
+  {
+    "name": "Honey Candy",
+    "ingredients": "1 x Courser Bee Honey",
+    "effect": "Restores two hearts and one-third stamina.",
+    "recipeNumber": 119
+  },
+  {
+    "name": "Fried Bananas",
+    "ingredients": "1 x Mighty Bananas\n1 x Tabantha Wheat\n1 x Cane Sugar",
+    "effect": "Restores three hearts and provides an attack boost.",
+    "recipeNumber": 120
+  },
+  {
+    "name": "Egg Pudding",
+    "ingredients": "1 x Fresh Milk\n1 x Bird Egg\n1 x Cane Sugar",
+    "effect": "Restores three hearts.",
+    "recipeNumber": 121
+  },
+  {
+    "name": "Plain Crepe",
+    "ingredients": "1 x Tabantha Wheat\n1 x Fresh Milk\n1 x Cane Sugar\n1 x Bird Egg",
+    "effect": "Restores five hearts.",
+    "recipeNumber": 122
+  },
+  {
+    "name": "Wildberry Crepe",
+    "ingredients": "1 x Wildberry\n1 x Tabantha Wheat\n1 x Fresh Milk\n1 x Cane Sugar\n1 x Bird Egg",
+    "effect": "Restores 10 hearts.",
+    "recipeNumber": 123
+  },
+  {
+    "name": "Honey Crepe",
+    "ingredients": "1 x Courser Bee Honey\n1 x Tabantha Wheat\n1 x Fresh Milk\n1 x Cane Sugar\n1 x Bird Egg",
+    "effect": "Restores 10 hearts and some stamina.",
+    "recipeNumber": 124
+  },
+  {
+    "name": "Nutcake",
+    "ingredients": "1 x Acorn or Chickaloo Tree Nut\n1 x Goat Butter\n1 x Cane Sugar\n1 x Tabantha Wheat",
+    "effect": "Restores three hearts.",
+    "recipeNumber": 125
+  },
+  {
+    "name": "Fruitcake",
+    "ingredients": "1 x Wildberry or Apple\n1 x Any Fruit\n1 x Cane Sugar\n1 x Tabantha Wheat",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 126
+  },
+  {
+    "name": "Carrot Cake",
+    "ingredients": "1 x Any Carrot\n1 x Cane Sugar\n1 x Tabantha Wheat\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 127
+  },
+  {
+    "name": "Pumpkin Pie",
+    "ingredients": "1 x Any Pumpkin\n1 x Cane Sugar\n1 x Tabantha Wheat\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 128
+  },
+  {
+    "name": "Cheesecake",
+    "ingredients": "1 x Hateno Cheese\n1 x Tabantha Wheat\n1 x Cane Sugar\n1 x Goat Butter",
+    "effect": "Restores four hearts.",
+    "recipeNumber": 129
+  },
+  {
+    "name": "Fruit Pie",
+    "ingredients": "1 x Any Fruit except Apple or Pumpkin\n1 x Tabantha Wheat\n1 x Cane Sugar\n1 x Goat Butter",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 130
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": "1 x Apple\n1 x Tabantha Wheat\n1 x Cane Sugar\n1 x Goat Butter",
+    "effect": "Restores health, use golden apples or increase amount for greater effect.",
+    "recipeNumber": 131
+  },
+  {
+    "name": "Egg Tart",
+    "ingredients": "1 x Bird Egg\n1 x Tabantha Wheat\n1 x Cane Sugar\n1 x Goat Butter",
+    "effect": "Restores four hearts.",
+    "recipeNumber": 132
+  },
+  {
+    "name": "Milk",
+    "ingredients": "1 x Hylian Rice\n1 Fresh Milk",
+    "effect": "Restored health, increase amount for greater effect.",
+    "recipeNumber": 133
+  },
+  {
+    "name": "Noble Pursuit",
+    "ingredients": "1 x Palm Fruit\n1 x Hydromelon\n1 x Voltfruit\n1 x Rock Salt",
+    "effect": "Restores four hearts.",
+    "recipeNumber": 134
+  },
+  {
+    "name": "Monster Stew",
+    "ingredients": "1 x Monster Extract\n1 x Any Meat\n1 x Any Seafood",
+    "effect": "Restores health, increase amount for greater effect. Change types for different effects.",
+    "recipeNumber": 135
+  },
+  {
+    "name": "Monster Soup",
+    "ingredients": "1 x Monster Extract\n1 x Goat Butter\n1 x Fresh Milk\n1 x Tabantha Wheat",
+    "effect": "Restores one-quarter of a heart.",
+    "recipeNumber": 136
+  },
+  {
+    "name": "Monster Curry",
+    "ingredients": "1 x Monster Extract\n1 x Goron Spice\n1 x Hylian Rice",
+    "effect": "Restores one-quarter of a heart.",
+    "recipeNumber": 137
+  },
+  {
+    "name": "Monster Rice Balls",
+    "ingredients": "1 x Monster Extract\n1 x Rock Salt\n1 x Hylian Rice",
+    "effect": "Restores one-quarter of a heart.",
+    "recipeNumber": 138
+  },
+  {
+    "name": "Monster Cake",
+    "ingredients": "1 x Monster Extract\n1 x Cane Sugar\n1 x Goat Butter\n1 x Tabantha Wheat",
+    "effect": "Restores one-quarter of a heart.",
+    "recipeNumber": 139
+  },
+  {
+    "name": "Dark Stew",
+    "ingredients": "1 x Dark Clump\n1 x Any Meat\n1 x Any Seafood",
+    "effect": "Restores health and provides gloom resistance. Increase amounts used for greater effect.",
+    "recipeNumber": 140
+  },
+  {
+    "name": "Dark Soup",
+    "ingredients": "1 x Dark Clump\n1 x Tabantha Wheat\n1 x Fresh Milk\n1 x Goat Butter",
+    "effect": "Restores health and provides gloom resistance. Increase amounts used for greater effect.",
+    "recipeNumber": 141
+  },
+  {
+    "name": "Dark Curry",
+    "ingredients": "1 x Dark Clump\n1 x Goron Spice\n1 x Hylian Rice",
+    "effect": "Restores health and provides gloom resistance. Increase amounts used for greater effect.",
+    "recipeNumber": 142
+  },
+  {
+    "name": "Dark Rice Ball",
+    "ingredients": "1 x Dark Clump\n1 x Hylian Rice\n1 x Rock Salt",
+    "effect": "Restores health and provides gloom resistance. Increase amounts used for greater effect.",
+    "recipeNumber": 143
+  },
+  {
+    "name": "Dark Cake",
+    "ingredients": "1 x Dark Clump\n1 x Cane Sugar\n1 x Goat Butter\n1 x Tabantha Wheat",
+    "effect": "Restores health and provides gloom resistance. Increase amounts used for greater effect.",
+    "recipeNumber": 144
+  },
+  {
+    "name": "Dubious Food",
+    "ingredients": "1 x Sticky Lizard",
+    "effect": "Restores one heart.",
+    "recipeNumber": 145
+  },
+  {
+    "name": "Rock-Hard Food",
+    "ingredients": "1 x Hylian Pine Cone",
+    "effect": "Restores a quarter of a heart.",
+    "recipeNumber": 146
+  },
+  {
+    "name": "Baked Apple",
+    "ingredients": "1 x Apple",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 147
+  },
+  {
+    "name": "Baked Golden Apple",
+    "ingredients": "1 x Golden Apple",
+    "effect": "Restores two and a quarter hearts.",
+    "recipeNumber": 148
+  },
+  {
+    "name": "Charred Pepper",
+    "ingredients": "1 x Spicy Pepper",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 149
+  },
+  {
+    "name": "Roasted Hylian Tomato",
+    "ingredients": "1 x Hylian Tomato",
+    "effect": "Restores one and a half hearts.",
+    "recipeNumber": 150
+  },
+  {
+    "name": "Roasted Wildberry",
+    "ingredients": "1 x Wildberry",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 151
+  },
+  {
+    "name": "Roasted Voltfruit",
+    "ingredients": "1 x Voltfruit",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 152
+  },
+  {
+    "name": "Roasted Hydromelon",
+    "ingredients": "1 x Hydromelon",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 153
+  },
+  {
+    "name": "Baked Palm Fruit",
+    "ingredients": "1 x Palm Fruit",
+    "effect": "Restores one and a half hearts.",
+    "recipeNumber": 154
+  },
+  {
+    "name": "Roasted Mighty Bananas",
+    "ingredients": "1 x Mighty Bananas",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 155
+  },
+  {
+    "name": "Roasted Lotus Seeds",
+    "ingredients": "1 x Fleet-Lotus Seeds",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 156
+  },
+  {
+    "name": "Roasted Mighty Thistle",
+    "ingredients": "1 x Mighty Thistle",
+    "effect": "Restores half a heart.",
+    "recipeNumber": 157
+  },
+  {
+    "name": "Roasted Armoranth",
+    "ingredients": "1 x Armoranth",
+    "effect": "Restores half a heart.",
+    "recipeNumber": 158
+  },
+  {
+    "name": "Roasted Swift Carrot",
+    "ingredients": "1 x Swift Carrot",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 159
+  },
+  {
+    "name": "Roasted Endura Carrot",
+    "ingredients": "1 x Endura Carrot",
+    "effect": "Restores three hearts.",
+    "recipeNumber": 160
+  },
+  {
+    "name": "Baked Fortified Pumpkin",
+    "ingredients": "1 x Fortified Pumpkin",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 161
+  },
+  {
+    "name": "Roasted Sun Pumpkin",
+    "ingredients": "1 x Sun Pumpkin",
+    "effect": "Restores three-quarters of a heart.",
+    "recipeNumber": 162
+  },
+  {
+    "name": "Roasted Radish",
+    "ingredients": "1 x Hearty Radish",
+    "effect": "Restores three and three-quarter hearts.",
+    "recipeNumber": 163
+  },
+  {
+    "name": "Roasted Big Radish",
+    "ingredients": "1 x Big Hearty Radish",
+    "effect": "Restores six hearts.",
+    "recipeNumber": 164
+  },
+  {
+    "name": "Toasty Skyshroom",
+    "ingredients": "1 x Skyshroom",
+    "effect": "Must be cooked over open fire. Restores half a heart.",
+    "recipeNumber": 165
+  },
+  {
+    "name": "Toasty Hylian Shroom",
+    "ingredients": "1 x Mushroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 166
+  },
+  {
+    "name": "Toasty Stamella Shroom",
+    "ingredients": "1 x Stamella Shroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 167
+  },
+  {
+    "name": "Toasty Rushroom",
+    "ingredients": "1 x Rushroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 168
+  },
+  {
+    "name": "Toasty Sunshroom",
+    "ingredients": "1 x Sunshroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 169
+  },
+  {
+    "name": "Toasty Chillshroom",
+    "ingredients": "1 x Chillshroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 170
+  },
+  {
+    "name": "Toasty Zapshroom",
+    "ingredients": "1 x Zapshroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 171
+  },
+  {
+    "name": "Toasty Razorshroom",
+    "ingredients": "1 x Razorshroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 172
+  },
+  {
+    "name": "Toasty Ironshroom",
+    "ingredients": "1 x Ironshroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 173
+  },
+  {
+    "name": "Toasty Silent Shroom",
+    "ingredients": "1 x Silent Shroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 174
+  },
+  {
+    "name": "Toasty Brightcap",
+    "ingredients": "1 x Brightcap",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 175
+  },
+  {
+    "name": "Toasty Endura Shroom",
+    "ingredients": "1 x Endura Shroom",
+    "effect": "Must be cooked over open fire. Restores three-quarters of a heart.",
+    "recipeNumber": 176
+  },
+  {
+    "name": "Toasted Hearty Truffle",
+    "ingredients": "1 x Hearty Truffle",
+    "effect": "Must be cooked over open fire. Restores three hearts.",
+    "recipeNumber": 177
+  },
+  {
+    "name": "Toasted Big Hearty Truffle",
+    "ingredients": "1 x Big Hearty Truffle",
+    "effect": "Must be cooked over open fire. Restores four and a half hearts.",
+    "recipeNumber": 178
+  },
+  {
+    "name": "Seared Steak",
+    "ingredients": "1 x Raw Meat",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 179
+  },
+  {
+    "name": "Seared Prime Steak",
+    "ingredients": "1 x Raw Prime Meat",
+    "effect": "Must be cooked over open fire. Restores two and a quarter hearts",
+    "recipeNumber": 180
+  },
+  {
+    "name": "Seared Gourmet Steak.",
+    "ingredients": "1 x Raw Gourmet Meat",
+    "effect": "Must be cooked over open fire. Restores four and a half hearts.",
+    "recipeNumber": 181
+  },
+  {
+    "name": "Roasted Bird Drumstick",
+    "ingredients": "1 x Bird Drumstick",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 182
+  },
+  {
+    "name": "Roasted Bird Thigh",
+    "ingredients": "1 x Bird Thigh",
+    "effect": "Must be cooked over open fire. Restores two and a half hearts.",
+    "recipeNumber": 183
+  },
+  {
+    "name": "Roasted Whole Bird",
+    "ingredients": "1 x Raw Whole Bird",
+    "effect": "Must be cooked over open fire. Restores four and a half hearts.",
+    "recipeNumber": 184
+  },
+  {
+    "name": "Roasted Arowana",
+    "ingredients": "1 x Ancient Arowana",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 185
+  },
+  {
+    "name": "Roasted Bass",
+    "ingredients": "1 x Hyrule Bass or Hearty Bass",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 186
+  },
+  {
+    "name": "Roasted Trout",
+    "ingredients": "1 x Any Trout",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 187
+  },
+  {
+    "name": "Roasted Carp",
+    "ingredients": "1 x Any Carp",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 188
+  },
+  {
+    "name": "Roasted Porgy",
+    "ingredients": "1 x Any Porgy",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts",
+    "recipeNumber": 189
+  },
+  {
+    "name": "Roasted Cave Fish",
+    "ingredients": "1 x Glowing Cave Fish",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts",
+    "recipeNumber": 190
+  },
+  {
+    "name": "Roasted Hearty Bass",
+    "ingredients": "1 x Hearty Bass",
+    "effect": "Must be cooked over open fire. Restores three hearts.",
+    "recipeNumber": 191
+  },
+  {
+    "name": "Roasted Hearty Salmon",
+    "ingredients": "1 x Hearty Salmon",
+    "effect": "Must be cooked over open fire. Restores four and a half hearts.",
+    "recipeNumber": 192
+  },
+  {
+    "name": "Blackened Crab",
+    "ingredients": "1 x Crab",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 193
+  },
+  {
+    "name": "Sneaky River Escargot",
+    "ingredients": "1 x Sneaky River Snail",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 194
+  },
+  {
+    "name": "Roasted Tree Nut",
+    "ingredients": "1 x Tree Nut",
+    "effect": "Must be cooked over open fire. Restores a half heart.",
+    "recipeNumber": 195
+  },
+  {
+    "name": "Roasted Acorn",
+    "ingredients": "1 x Acorn",
+    "effect": "Must be cooked over open fire. Restores half a heart.",
+    "recipeNumber": 196
+  },
+  {
+    "name": "Campfire Egg",
+    "ingredients": "1 x Bird Egg",
+    "effect": "Must be cooked over open fire. Restores one and a half hearts.",
+    "recipeNumber": 197
+  },
+  {
+    "name": "Hard-Boiled Egg",
+    "ingredients": "1 x Bird Egg",
+    "effect": "Must be cooked by dropping an Egg into a Hot Spring. Restores one and a half hearts.",
+    "recipeNumber": 198
+  },
+  {
+    "name": "Icy Meat",
+    "ingredients": "1 x Raw Meat",
+    "effect": "Need to drop meat in a freezing location. Restores a full heart and provides heat resistance.",
+    "recipeNumber": 199
+  },
+  {
+    "name": "Icy Prime Meat",
+    "ingredients": "1 x Raw Prime Meat",
+    "effect": "Need to drop meat in a freezing location. Restores one and a half hearts and provides heat resistance.",
+    "recipeNumber": 200
+  },
+  {
+    "name": "Icy Gourmet Meat",
+    "ingredients": "1 x Raw Gourmet Meat",
+    "effect": "Need to drop meat in a freezing location. Restores three hearts and provides heat resistance.",
+    "recipeNumber": 201
+  },
+  {
+    "name": "Frozen Bird Drumstick",
+    "ingredients": "1 x Raw Bird Drumstick",
+    "effect": "Need to drop meat in a freezing location. Restores a full heart and lowers body temperature.",
+    "recipeNumber": 202
+  },
+  {
+    "name": "Frozen Bird Thigh",
+    "ingredients": "1 x Raw Bird Thigh",
+    "effect": "Need to drop meat in a freezing location. Restores one and a half hearts and provides heat resistance.",
+    "recipeNumber": 203
+  },
+  {
+    "name": "Frozen Whole Bird",
+    "ingredients": "1 x Raw Whole Bird",
+    "effect": "Need to drop meat in a freezing location. Restores three hearts and provides heat resistance.",
+    "recipeNumber": 204
+  },
+  {
+    "name": "Frozen Arowana",
+    "ingredients": "1 x Ancient Arowana",
+    "effect": "Need to drop fish in a freezing location. Restores two hearts and provides heat resistance.",
+    "recipeNumber": 205
+  },
+  {
+    "name": "Frozen Bass",
+    "ingredients": "1 x Any Bass",
+    "effect": "Need to drop fish in a freezing location. Restores two hearts and provides heat resistance.",
+    "recipeNumber": 206
+  },
+  {
+    "name": "Frozen Trout",
+    "ingredients": "1 x Any Trout",
+    "effect": "Need to drop fish in a freezing location. Restores one heart and provides heat resistance.",
+    "recipeNumber": 207
+  },
+  {
+    "name": "Frozen Carp",
+    "ingredients": "1 x Any Carp",
+    "effect": "Need to drop fish in a freezing location. Restores one heart and provides heat resistance.",
+    "recipeNumber": 208
+  },
+  {
+    "name": "Frozen Porgy",
+    "ingredients": "1 x Any Porgy",
+    "effect": "Need to drop fish in a freezing location. Restores one heart and provides heat resistance.",
+    "recipeNumber": 209
+  },
+  {
+    "name": "Frozen Cave Fish",
+    "ingredients": "1 x Glowing Cave Fish",
+    "effect": "Need to drop fish in a freezing location. Restores two hearts and provides heat resistance.",
+    "recipeNumber": 210
+  },
+  {
+    "name": "Frozen Hearty Bass",
+    "ingredients": "1 x Hearty Bass",
+    "effect": "Need to drop fish in a freezing location. Restores two hearts and provides heat resistance.",
+    "recipeNumber": 211
+  },
+  {
+    "name": "Frozen Hearty Salmon",
+    "ingredients": "1 x Hearty Salmon",
+    "effect": "Need to drop fish in a freezing location. Restores four hearts and provides heat resistance.",
+    "recipeNumber": 212
+  },
+  {
+    "name": "Frozen Crab",
+    "ingredients": "1 x Any Crab",
+    "effect": "Need to drop crab in a freezing location. Restores two hearts and provides heat resistance.",
+    "recipeNumber": 213
+  },
+  {
+    "name": "Frozen River Snail",
+    "ingredients": "1 x Sneaky River Snail",
+    "effect": "Need to drop snail in a freezing location. Restores one heart and provides heat resistance.",
+    "recipeNumber": 214
+  }
+]
