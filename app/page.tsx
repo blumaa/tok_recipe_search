@@ -28,7 +28,7 @@ const columns = [
     header: () => <div className="pl-2">Name</div>,
   }),
   columnHelper.accessor("ingredients", {
-    cell: info => info.getValue(),
+    cell: info => info.getValue().split('\n').map((item, index) => <div key={index}>{item}</div>),
     header: () => 'Ingredients',
   }),
   columnHelper.accessor('effect', {
@@ -62,44 +62,34 @@ export default function Page() {
         effectFilter={effectFilter}
         setEffectFilter={setEffectFilter}
       />
-
-      <table className="min-w-full divide-y divide-gray-300" >
-        <thead className="bg-gray-200">
-          {table.getHeaderGroups().map(headerGroup => (
-            <tr key={headerGroup.id}>
-              {headerGroup.headers.map(header => (
-                <th key={header.id}
-                  className="py-3 text-left text-xs font-medium text-gray-800 "
-                >
-                  {header.isPlaceholder
-                    ? null
-                    : flexRender(
-                      header.column.columnDef.header,
-                      header.getContext()
-                    )}
-                </th>
-              ))}
-            </tr>
-          ))}
-        </thead>
-        <tbody className="bg-white divide-y divide-gray-200 " >
-          {table.getRowModel().rows.map(row => (
-            <tr key={row.id}>
-              {row.getVisibleCells().map(cell => (
-                <td key={cell.id}
-                  className="py-1 "
-                >
-                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                </td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="divide-y divide-gray-300">
+        {table.getHeaderGroups().map(headerGroup => (
+          <div key={headerGroup.id} className="bg-gray-200 min-w-full lg:grid lg:grid-cols-3 gap-4">
+            {headerGroup.headers.map(header => (
+              <div key={header.id} className="py-3 text-left text-xs font-medium text-gray-800">
+                {header.isPlaceholder
+                  ? null
+                  : flexRender(
+                    header.column.columnDef.header,
+                    header.getContext()
+                  )}
+              </div>
+            ))}
+          </div>
+        ))}
+        {table.getRowModel().rows.map(row => (
+          <div key={row.id} className="bg-white divide-y divide-gray-200 min-w-full lg:grid lg:grid-cols-3 gap-4">
+            {row.getVisibleCells().map(cell => (
+              <div key={cell.id} className="py-1">
+                {flexRender(cell.column.columnDef.cell, cell.getContext())}
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
       <footer className="flex justify-end">
         <div className="text-xs text-slate-600 p-4">© 2024 <a href="mailto:blumaa@gmail.com" className="hover:text-sky-600 hover:underline">Aaron Blum</a></div>
       </footer>
-
     </div>
   )
 }
